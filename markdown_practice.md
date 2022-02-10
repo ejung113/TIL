@@ -163,9 +163,4 @@ for lang in languages:
 3. 공식문서가 자세히 제공된다.
 
    [파이썬 공식문서 링크]( https://docs.python.org/3/)
-
-   
-
-   
-
-   
+ 
