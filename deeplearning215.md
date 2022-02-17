@@ -29,6 +29,8 @@ def softmax(x):
 - 에폭은 데이터 전체를 한번에
 - 배치는 묶음 데이터 단위로 나누어 학습
 
+에폭(epoch)
+
 ```python
 accuracy_cnt = 0
 for i in range(len(x_test)):
@@ -40,7 +42,7 @@ for i in range(len(x_test)):
 print("Accuracy : {}".format(accuracy_cnt/len(x_test)))
 ```
 
-
+배치(batch)
 
 ```python
 network = init_network()
